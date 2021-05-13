@@ -62,6 +62,6 @@ public class LogicPositivizer {
                         // appended with a path to "output"
                         .resolve(Paths.get("output")));
         
-        System.out.println("Hello world part1");
+        System.out.println("Hello world part2");
     }
 }
